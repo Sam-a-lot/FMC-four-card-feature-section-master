@@ -1,0 +1,44 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.938rem;
+    line-height: 2.400rem;
+    letter-spacing: 0.011rem;
+    color: #4D4F62;
+    background-color: #F2F2F2;
+}
+
+h1 {
+    font-weight: 200;
+    font-size: 1.500rem;
+}
+
+h2 {
+    font-weight: 600;
+    font-size: 1.500rem;
+}
+
+h3 {
+    font-weight: 600;
+    font-size: 1.333rem;
+    line-height: 2rem;
+}
+
+.intro {
+    line-height: 1.667rem;
+    letter-spacing: 0.1rem;
+}
+
+p {
+    line-height: 1.533rem;
+    letter-spacing: 0.006rem;
+    font-size: 0.813rem;
+}
+
+.attribution {
+    font-size: 0.733rem;
+    text-align: center;
+}
+
+.attribution a {
+    color: #3e52a3;
+}
